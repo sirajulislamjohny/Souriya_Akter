@@ -1,0 +1,38 @@
+.btn-edit, .btn-delete {
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    margin: 0 5px;
+}
+
+.btn-edit {
+    background-color: #17a2b8;
+}
+
+.btn-edit:hover {
+    background-color: #138496;
+}
+
+.btn-delete {
+    background-color: #dc3545;
+}
+
+.btn-delete:hover {
+    background-color: #c82333;
+}
+
+.btn-export {
+    background-color: #17a2b8;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+.btn-export:hover {
+    background-color: #138496;
+}
